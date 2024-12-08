@@ -1,7 +1,7 @@
 # Guess The Country Game
 
 ## Project Description
-Game link: https://barancck.github.io/geogame/
+Game link: https://gmt-458-web-gis.github.io/geogame-barancck/
 
 The "Guess The Country" game displays the boundaries of a country on a world map and asks the user to guess the name of the country. The game is developed using Leaflet, GeoJSON data, and JavaScript. Users enter their guesses into an input field, and the game provides immediate feedback on whether the guess was correct or not. If the guess is correct, a new country is displayed. The user's score is also updated in real-time.
 
