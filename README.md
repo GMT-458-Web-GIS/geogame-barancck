@@ -7,8 +7,7 @@ The "Guess The Country" game displays the boundaries of a country on a world map
 
 ---
 
-## Event Handlers (15%)
-
+## Event Handlers 
 This project includes three key event handlers that manage user interactions and gameplay logic.
 
 ### 1️⃣ **Submit Button Click Event**
@@ -67,7 +66,7 @@ document.getElementById('guess-input').addEventListener('keydown', (event) => {
 
 ---
 
-## Closure Usage (10%)
+## Closure Usage 
 
 Closures are used in this project to maintain access to variables that would otherwise be out of scope. The most prominent example of closure usage is in the interaction between `loadQuestion` and `handleUserInput`.
 
@@ -102,7 +101,7 @@ function handleUserInput() {
 
 ---
 
-## DOM Interaction (15%)
+## DOM Interaction 
 
 Interacting with the DOM is crucial for this project as user inputs, buttons, and map updates require direct manipulation of HTML elements.
 
