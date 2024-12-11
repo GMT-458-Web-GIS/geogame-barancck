@@ -3,7 +3,7 @@
 ## Project Description
 Game link: https://gmt-458-web-gis.github.io/geogame-barancck/
 
-AI support: The Leaflet doesnt have the highlighting the countries feature so I found the solution asking to gpt and it advised me to use a geojson file for the country boundries. I found the countries.geojson file on internet from https://r2.datahub.io/clvyjaryy0000la0cxieg4o8o/main/raw/data/countries.geojson and implemented it to my geogame. 
+AI support: https://chatgpt.com/share/67594834-a69c-8011-9a43-efb76246075b The Leaflet doesnt have the highlighting the countries feature so I found the solution asking to gpt and it advised me to use a geojson file for the country boundries. I found the countries.geojson file on internet from https://r2.datahub.io/clvyjaryy0000la0cxieg4o8o/main/raw/data/countries.geojson and implemented it to my geogame. 
 
 The "Guess The Country" game displays the boundaries of a country on a world map and asks the user to guess the name of the country. The game is developed using Leaflet, GeoJSON data, and JavaScript. Users enter their guesses into an input field, and the game provides immediate feedback on whether the guess was correct or not. If the guess is correct, a new country is displayed. The user's score is also updated in real-time.
 
